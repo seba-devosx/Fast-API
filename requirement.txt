@@ -1,2 +1,4 @@
-pip install "fastapi[all]" 
+pip install "fastapi[all]"
+pip install SQLAlchemy
+pip install PyMySQL==1.0.2
 pip install faker
